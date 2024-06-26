@@ -30,5 +30,6 @@ I have been coding since the 11th grade, accumulating five years of experience. 
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=saadshaikh1023&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadshaikh1023&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </p>
-                    
+
+![Snake eating my contribution graph](./github-contribution-grid-snake.svg)
                  
