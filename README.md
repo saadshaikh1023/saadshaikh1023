@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Multifaceted developer
 ----------------
 
-I have been coding since the 11th grade, accumulating five years of experience. Currently, I am in my third year of college, where I have developed a strong interest in Artificial Intelligence.
+I have been coding since 11th grade, accumulating five years of experience. Currently, I am in my third year of college, where I have developed a strong interest in Artificial Intelligence and Web Development.
 
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [https://saadshaikhportfolio.netlify.app/](http://saadshaikhportfolio.netlify.app/)
