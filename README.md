@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saad Shaikh
 =====================================================================================================================================
 
-Multifaceted developer
+Full stack developer <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbiradar06&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbiradar06" /> </p>
+
 ----------------
 
 I have been coding since 11th grade, accumulating five years of experience. Currently, I am in my third year of college, where I have developed a strong interest in Artificial Intelligence and Web Development.
@@ -24,6 +25,21 @@ I have been coding since 11th grade, accumulating five years of experience. Curr
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+</a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" style="background-color: white; padding: 4px; border-radius: 4px;" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="background-color: white; padding: 4px; border-radius: 4px;" />
+</a>
 
 <h2>My stats</h2>
 <a href="https://github.com/saadshaikh1023">
