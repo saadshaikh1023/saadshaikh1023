@@ -5,7 +5,7 @@ Full stack developer <p align="left"> <img src="https://komarev.com/ghpvc/?usern
 
 ----------------
 
-I have been coding since 11th grade, accumulating five years of experience. Currently, I am in my third year of college, where I have developed a strong interest in Artificial Intelligence and Web Development.
+I have been coding since 11th grade, accumulating five years of experience. Currently, I am in my 4th year of college, where I have developed a strong interest in Artificial Intelligence and Web Development.
 
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [https://saadshaikhportfolio.netlify.app/](http://saadshaikhportfolio.netlify.app/)
