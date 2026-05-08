@@ -8,10 +8,10 @@ Full stack developer
 
 ---
 
-I have been coding since 11th grade, accumulating five years of experience. Currently, I am in my 4th year of college, where I have developed a strong interest in Artificial Intelligence and Web Development.
+Full-stack developer with 5+ years of experience, specializing in Shopify development and scalable e-commerce systems.
 
 * 🌍 I'm based in Mumbai
-* 🖥️ See my portfolio at https://saad2003.vercel.app/
+* 🖥️ See my portfolio at [https://saaddev.com/](https://www.saaddev.com/)
 * ✉️ You can contact me at [saadshaikh.business@gmail.com](mailto:saadshaikh.business@gmail.com)
 
 ---
@@ -19,6 +19,7 @@ I have been coding since 11th grade, accumulating five years of experience. Curr
 ### 🚀 Skills
 
 <p align="left">
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="40" style="margin:6px;" alt="Shopify" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" style="margin:6px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" style="margin:6px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" style="margin:6px;" />
